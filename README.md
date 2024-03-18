@@ -9,8 +9,6 @@ I am a Software Engineer with a strong PLC background in Industrial Automation. 
 Hey, so I've recently started diving into tech, and cloud computing has really caught my attention. I'm eager to explore this field further and  familiarize myself with it. My goal is to get hands-on experience in designing and deploying cloud solutions. I'm excited to bring my fresh perspective and willingness to learn to the table, helping businesses harness the potential of the cloud for their digital needs.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,11 +21,10 @@ Hey, so I've recently started diving into tech, and cloud computing has really c
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-AWS%20VPC-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Virtual%20Network-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Route%2053-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-VPC%20Peering-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
@@ -49,7 +46,6 @@ Hey, so I've recently started diving into tech, and cloud computing has really c
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
