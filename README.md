@@ -13,9 +13,9 @@ Hey, so I've recently started diving into tech, and cloud computing has really c
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project(not documented)         |
 |-----------------------------------------------|----------------------------|
-| Infrastructure Provisioning with Terraform    | <a href="https://google.com">Terraform Infrastructure Deployment</a> |
+| Infrastructure Provisioning with Terraform    | Terraform Infrastructure Deployment |
 | Cloud Security Management with IAM           | IAM Policy Implementation and Management |
 | Network Configuration with Load Balancers    | Load Balancer Setup and Configuration |
 | Data Storage and Management with S3 and RDS  | S3 and RDS Data Management Project |
@@ -56,6 +56,7 @@ Hey, so I've recently started diving into tech, and cloud computing has really c
 </div>
 
 
+<!--
 ## Projects
-- <a href="https://google.com">Terraform Infrastructure Deployment</a>
-- SOC Automation Project
+ <a href="https://google.com">Terraform Infrastructure Deployment</a>
+- SOC Automation Project-->
